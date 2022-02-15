@@ -27,5 +27,5 @@ class dnd{
     languages: ["Python", "HTML", "CSS", "JavaScript"]
   }
 }
-module.exports = Hatasız
+module.exports = dnd
 ```
