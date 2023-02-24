@@ -1,6 +1,6 @@
 ```js
 
-class dnd{
+class zenzysjr{
   constructor(...options) {
     this.name = "faruk",
     this.age = "22",
@@ -16,5 +16,5 @@ class dnd{
     languages: ["Python", "HTML", "CSS", "JavaScript"]
   }
 }
-module.exports = dnd
+module.exports = zenzysjr
 ```
