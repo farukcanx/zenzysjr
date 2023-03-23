@@ -3,7 +3,7 @@
 class zenzysjr{
   constructor(...options) {
     this.name = "faruk",
-    this.age = "22",
+    this.age = "23",
     this.height = "1.86"
     this.weight = "90"
     this.type = "human"
